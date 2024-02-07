@@ -35,6 +35,6 @@ Helpful HTML Resources, links, talks and people.
 
 ## People
 - Julie Grundy, Blue Sky: @stringyland.bsky.social   
-- Eric Bailey, Mastodon: @social.ericwbailey.website/@eric
-- Robin Marx, Twitter: https://twitter.com/programmingart
-- Harry Roberts, Twitter: https://twitter.com/csswizardry
+- Eric Bailey, Mastodon: [@social.ericwbailey.website/@eric](https://social.ericwbailey.website/@eric)
+- Robin Marx, Twitter: [@programmingart](https://twitter.com/programmingart)
+- Harry Roberts, Twitter: [@csswizardry](https://twitter.com/csswizardry)
