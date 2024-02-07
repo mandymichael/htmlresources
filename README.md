@@ -19,7 +19,7 @@ Helpful HTML Resources, links, talks and people.
 - https://calendar.perfplanet.com/2022/http-3-prioritization-demystified/
 - https://www.youtube.com/watch?v=UW1PEMBdX5E
 
-## HTMl 
+## HTML
 - https://developer.mozilla.org/docs/Web/HTML
 - https://adrianroselli.com/2019/07/maybe-you-dont-need-a-date-picker.html
 - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog
