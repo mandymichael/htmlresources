@@ -34,7 +34,7 @@ Helpful HTML Resources, links, talks and people.
 - https://web.dev/articles/optimize-cls
 
 ## People
-Julie Grundy - Blue Sky: @stringyland.bsky.social   
-Eric Bailey - Mastodon: @social.ericwbailey.website/@eric
-Robin Marx - Twitter: https://twitter.com/programmingart
-Harry Roberts - Twitter: https://twitter.com/csswizardry
+- Julie Grundy, Blue Sky: @stringyland.bsky.social   
+- Eric Bailey, Mastodon: @social.ericwbailey.website/@eric
+- Robin Marx, Twitter: https://twitter.com/programmingart
+- Harry Roberts, Twitter: https://twitter.com/csswizardry
